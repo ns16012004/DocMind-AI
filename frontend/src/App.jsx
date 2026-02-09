@@ -1,6 +1,5 @@
 // frontend/src/App.jsx
 import ChatPage from "./ChatPage";
-import "./App.css";
 
 function App() {
   return (
@@ -16,3 +15,4 @@ function App() {
 }
 
 export default App;
+
